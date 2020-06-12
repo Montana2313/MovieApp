@@ -9,7 +9,7 @@
 import Foundation
 
 private struct PeopleApiConstants {
-    private static let api_Key  =  "?api_key=40674bd02c63d8ba4824b1224fa2fb94"
+    private static let api_Key  =  "?api_key="
     static let latest_People_URL = "https://api.themoviedb.org/3/person/latest\(PeopleApiConstants.api_Key)"
     static let popular_People_URL = "https://api.themoviedb.org/3/person/popular\(PeopleApiConstants.api_Key)"
     static func people_Images(peopleId id :String)->String{
