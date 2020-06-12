@@ -1,0 +1,48 @@
+PODS:
+  - Hero (1.5.0)
+  - RKPieChart (0.0.1)
+  - RxCocoa (5.1.1):
+    - RxRelay (~> 5)
+    - RxSwift (~> 5)
+  - RxRelay (5.1.1):
+    - RxSwift (~> 5)
+  - RxSwift (5.1.1)
+  - SDWebImage (5.7.4):
+    - SDWebImage/Core (= 5.7.4)
+  - SDWebImage/Core (5.7.4)
+  - SwipeCellKit (2.7.1)
+  - TinyConstraints (4.0.1)
+
+DEPENDENCIES:
+  - Hero
+  - RKPieChart
+  - RxCocoa
+  - RxSwift
+  - SDWebImage
+  - SwipeCellKit
+  - TinyConstraints
+
+SPEC REPOS:
+  trunk:
+    - Hero
+    - RKPieChart
+    - RxCocoa
+    - RxRelay
+    - RxSwift
+    - SDWebImage
+    - SwipeCellKit
+    - TinyConstraints
+
+SPEC CHECKSUMS:
+  Hero: b7385b75e7259da62f4f85462f59a5082d66b058
+  RKPieChart: 8e643c505d24e61574f3a2fd6bd807403840b24b
+  RxCocoa: 32065309a38d29b5b0db858819b5bf9ef038b601
+  RxRelay: d77f7d771495f43c556cbc43eebd1bb54d01e8e9
+  RxSwift: 81470a2074fa8780320ea5fe4102807cb7118178
+  SDWebImage: 48b88379b798fd1e4298f95bb25d2cdabbf4deb3
+  SwipeCellKit: 3972254a826da74609926daf59b08d6c72e619ea
+  TinyConstraints: 8dd91295e56797648c7bc335dd20e1d91ec4c192
+
+PODFILE CHECKSUM: 3293f8f36230c428ef47cdd1c3e328d9feab1c10
+
+COCOAPODS: 1.9.1
